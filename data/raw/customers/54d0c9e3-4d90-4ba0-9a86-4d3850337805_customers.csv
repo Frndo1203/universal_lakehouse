@@ -1,0 +1,51 @@
+customer_id	name	state	city	email	created_at	ts
+294ad7e6-c30a-4b83-b8c5-584d02e37bc1	Sharon Lester	Maryland	Martinezfort	hharris@example.net	2024-08-02T14:45:44.900316	1722620744.900325
+6128b72a-5fe2-4ec3-a29b-36a5a95b9532	Joshua Trevino	Iowa	Kerrstad	jamesmelton@example.org	2024-08-02T14:45:44.900616	1722620744.900618
+e04ccf36-3ae5-425a-ba32-03246f65436c	Maria Miller	Iowa	Petersburgh	kristijohnson@example.net	2024-08-02T14:45:44.900896	1722620744.900898
+a1472ac7-7858-4bfd-845b-c58eadcc0097	Gregory Tanner	Mississippi	Adrienneport	jeffreygood@example.net	2024-08-02T14:45:44.901154	1722620744.901156
+72292e32-c48e-4db0-bdc2-f01fa479b971	Lisa Ward	Maryland	Port Brandy	marshalldavid@example.com	2024-08-02T14:45:44.901411	1722620744.901413
+9891c9cd-97a3-4e81-894c-8a7f80c851a2	Bailey Arnold	Wyoming	Johnmouth	michael23@example.org	2024-08-02T14:45:44.901617	1722620744.901619
+7fd9f99c-1f15-433a-abe9-c3d1ed9409d5	Duane Nash	North Carolina	New Tara	ycastro@example.com	2024-08-02T14:45:44.901856	1722620744.901859
+81a40748-946e-421b-8389-b8ec17164558	Tanya Wagner	Georgia	Port Brianna	clinescott@example.com	2024-08-02T14:45:44.902133	1722620744.902135
+1ed8e0f9-6c67-4e9e-abc6-cf4c44d2ee30	Jessica Banks	Montana	Moranhaven	jonesnichole@example.com	2024-08-02T14:45:44.902412	1722620744.902414
+10dd31c9-dfa0-472a-a177-a90f738dc00b	Mason George	Oklahoma	Port Elizabethport	wanda31@example.com	2024-08-02T14:45:44.902619	1722620744.90262
+743836fd-b4eb-4281-a7c9-f5515ee89bf4	James Taylor	Maryland	Wendyburgh	sherrijacobs@example.com	2024-08-02T14:45:44.902877	1722620744.902878
+a2327f11-4ddb-4143-8d96-92fc92ebe519	Matthew Owens	Nevada	South Terry	richardsaunders@example.com	2024-08-02T14:45:44.903135	1722620744.903136
+852fdaff-134c-4331-a12c-940b10b68792	Eric Baxter	Texas	New Jamesfort	moralesbrenda@example.net	2024-08-02T14:45:44.903391	1722620744.903393
+bba81d90-55fe-40bb-97fd-eab2bce8bef7	Timothy Rodgers	Maine	Davidberg	jameswaller@example.net	2024-08-02T14:45:44.903645	1722620744.903647
+adbbdef2-3c6a-469b-b12e-9f0e852b42f2	Caroline Robinson	Virginia	Palmerside	cristian50@example.com	2024-08-02T14:45:44.903866	1722620744.903868
+83766050-b824-4630-92ac-799772ff19b5	Emily Mcclain	North Carolina	East Dylan	nicholaspowers@example.org	2024-08-02T14:45:44.904123	1722620744.904141
+2c6a9226-3f96-4507-a316-176589aa8002	Michelle Heath	Arizona	New Jorge	landerson@example.com	2024-08-02T14:45:44.904388	1722620744.90439
+4b6b5adc-a26a-43aa-a45d-7a1ff7555f6c	Jennifer Foley	Kansas	South Samanthafort	zwatts@example.net	2024-08-02T14:45:44.904611	1722620744.904613
+ab48a096-c070-4965-86a5-73c74276eb2b	Kelly Hurley	Illinois	New Janice	doylemark@example.org	2024-08-02T14:45:44.904869	1722620744.904871
+aa067225-3ec6-48ea-b270-a33647e33064	Renee Johnson	Louisiana	Port Kimberlyborough	rogerschristina@example.org	2024-08-02T14:45:44.905149	1722620744.905152
+7277146c-23e5-4f34-af04-404a245c39be	Sandra Phillips	Rhode Island	Knappborough	kimberlypalmer@example.org	2024-08-02T14:45:44.905481	1722620744.905484
+bfe05d91-88cf-464f-aabd-71a2a69a18e6	Jeffery Martin	South Carolina	Lake Jesus	adam21@example.com	2024-08-02T14:45:44.905682	1722620744.905683
+4988fcb7-74c5-4df1-901a-686afbdc131f	Mariah Green	Pennsylvania	East Patricia	hansenrobert@example.net	2024-08-02T14:45:44.905929	1722620744.905931
+c7481245-5e68-467c-9779-00ef27de563f	Jessica Parker	Louisiana	Parkerfort	randallkaren@example.org	2024-08-02T14:45:44.906194	1722620744.906195
+75e28439-8645-4a55-b902-a395fd1087cd	Kenneth Lyons	Wyoming	Lake Grantville	gray@example.net	2024-08-02T14:45:44.906436	1722620744.906439
+7a67a4b7-bab3-46d3-8370-dade40c20a09	Allison Medina	Maryland	New Cassandra	michael04@example.org	2024-08-02T14:45:44.906638	1722620744.90664
+2df4d290-cdf4-4e98-8069-b888a30887b9	Connie Tapia	Colorado	North Troy	qboyd@example.net	2024-08-02T14:45:44.906852	1722620744.906854
+685d9e26-8522-4d46-82be-411487c37fcd	Amanda Richardson	Connecticut	South Cindyfurt	psmith@example.com	2024-08-02T14:45:44.907068	1722620744.907069
+0cf6d9d7-0a6b-4ae4-868b-8b2a23623d1b	Michael Estes	Michigan	Lake James	durangregg@example.org	2024-08-02T14:45:44.907315	1722620744.907316
+f2c25e13-90fe-481d-b002-5fb2487a1921	Nicole Johnson	Oklahoma	Barbaraland	shanebutler@example.org	2024-08-02T14:45:44.907564	1722620744.907565
+1bf5733f-fa8a-41dd-8d6c-be1b0a2b43fa	Melissa Kim	Virginia	Lewisfurt	torresrobin@example.net	2024-08-02T14:45:44.907828	1722620744.90783
+44ee15cd-645d-40a7-8102-788073c6ff79	Kathy Shaw	North Dakota	Colonfurt	welchbrandon@example.org	2024-08-02T14:45:44.908093	1722620744.908094
+f9485b86-dcbc-4972-820f-48445fee55df	Gregory Bradshaw	Florida	North Kathy	lindamorris@example.org	2024-08-02T14:45:44.908337	1722620744.908339
+5b5c9673-dcb3-4ce3-a34a-bb586f0b9203	Jody Schaefer	Oregon	Lake Coleland	woodian@example.net	2024-08-02T14:45:44.908586	1722620744.908587
+1e7a88f1-3ee2-429e-ac93-024c749056df	Richard Phillips	Nevada	West Anthony	asimon@example.net	2024-08-02T14:45:44.908794	1722620744.908795
+c62916d9-d593-4461-955f-86165b86f7b7	Brian Young	North Carolina	Mckenzieside	wilsonkyle@example.net	2024-08-02T14:45:44.909056	1722620744.909057
+b8f5c85f-34f1-4057-8a8a-23e49e052c00	Ashley Hays	Utah	West Stephenville	jameshaas@example.net	2024-08-02T14:45:44.909301	1722620744.909303
+bab68dd7-b15a-4d39-b2f5-363c58ad46f4	John Johnson	Wisconsin	West Autumn	johnsonstephen@example.net	2024-08-02T14:45:44.909547	1722620744.909548
+916e32e0-8421-4443-ab42-d4b6451a5e5a	Matthew Munoz	Maryland	Dixonside	andrew59@example.org	2024-08-02T14:45:44.909754	1722620744.909756
+c67e4c91-6c51-4c50-87e4-7289d83f6c38	Mr. Aaron Lozano	Alabama	East Sherriberg	rhondamora@example.net	2024-08-02T14:45:44.910008	1722620744.91001
+e2566420-aa84-4e2f-b62d-aa5affb2d5bc	Stephen Ramirez	Tennessee	Kempbury	peter07@example.org	2024-08-02T14:45:44.910217	1722620744.910219
+196f19be-bb75-4ee1-8668-905da9a41aa2	Kimberly Rasmussen	Utah	Zacharyport	eatondanielle@example.org	2024-08-02T14:45:44.910512	1722620744.910515
+347164c7-64d7-45e5-9d82-fed4d7c814cf	Michelle Klein	Massachusetts	South Robertborough	wendy80@example.net	2024-08-02T14:45:44.910759	1722620744.910762
+b75b8e8b-b30e-467b-9923-ab09ada8b10c	James Beltran	New Hampshire	Lake Ericside	jwebb@example.com	2024-08-02T14:45:44.911011	1722620744.911013
+358df969-1a8b-4b91-9942-f1f73a3f6c13	Jessica Rogers	Connecticut	North Adam	tiffanyking@example.com	2024-08-02T14:45:44.911266	1722620744.911268
+4f300d2c-4e01-416d-8024-ab9c6088a68f	Tami Castaneda	Kentucky	East Meghan	jimenezcory@example.com	2024-08-02T14:45:44.911516	1722620744.911518
+dea829a7-d153-4d41-9735-b6bfc1b1920f	Thomas Monroe	Connecticut	Maldonadomouth	kimberly02@example.org	2024-08-02T14:45:44.911728	1722620744.91173
+419aad58-f340-4e65-94d3-dcf3e1e6c710	Christopher Ross	Oregon	Rachelshire	jbarr@example.org	2024-08-02T14:45:44.911939	1722620744.91194
+2abf747a-5e3f-4193-be39-091746086cf4	Andrew Davis	South Carolina	East Charlesborough	curtismurray@example.com	2024-08-02T14:45:44.912185	1722620744.912187
+6beb11a2-9d70-4424-a8f3-4bf81fd988e0	Kyle Walters	South Dakota	North Amy	kimsmith@example.org	2024-08-02T14:45:44.912431	1722620744.912433
