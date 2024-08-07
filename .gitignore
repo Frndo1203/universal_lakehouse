@@ -9,8 +9,6 @@ bin-release/
 .venv/*
 data/*
 infra/jars/*
-infra/jars/hudi-extensions-0.1.0-SNAPSHOT-bundled.jar
-infra/jars/hudi-utilities-slim-bundle_2.12-0.14.0.jar
 
 # Executables
 *.swf
